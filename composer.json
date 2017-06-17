@@ -1,0 +1,13 @@
+{
+    "name": "luqingsheng/demo",
+    "description": "test composer",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "lqs",
+            "email": "860378835@qq.cpm"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
